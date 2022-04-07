@@ -196,6 +196,9 @@ body{
     .items{
         padding: 0px 30px;
     }
+    .tools__flex{
+        display: none;
+    }
 }
 
 
