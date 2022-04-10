@@ -576,6 +576,10 @@ a {
         display: none;
     }
 
+    .item {
+        width: 300px;
+    }
+
     .tools__text {
         display: none;
     }
