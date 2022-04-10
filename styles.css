@@ -580,6 +580,12 @@ a {
         width: 300px;
     }
 
+    .items__body {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(305px, 1fr));
+        gap: 0px;
+    }
+
     .tools__text {
         display: none;
     }
